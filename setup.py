@@ -14,7 +14,7 @@ setup(
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'Topic :: Communications',
-        'License :: OSI Approved :: Apache',
+        'License :: OSI Approved :: Apache Software License',
 
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.6',
