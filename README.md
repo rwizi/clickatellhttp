@@ -1,4 +1,4 @@
-#ris.clickatellhttp
+#clickatellhttp
 
 Python implementation of the Clickatell HTTP/HTTPS API for sending SMS messages using the Clickatell SMS Gateway as 
 specified in v2.5.3 - https://www.clickatell.com/downloads/http/Clickatell_HTTP.pdf
@@ -10,7 +10,7 @@ This package enables you to easily integrate SMS messaging into your Python appl
 You can install this package via PIP
 
 ```bash
-sudo pip install ris.clickatell
+sudo pip install ris.clickatellhttp
 ```
 
 ##Basic Usage
