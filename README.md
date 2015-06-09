@@ -20,7 +20,7 @@ Developer Central portal you will be provided with an API ID, username, and pass
 client.
 
 ```python
-from ris.clickatell import ClickatellClient, ClickatellException
+from ris.clickatellhttp import ClickatellClient, ClickatellException
  
 # Clickatell settings
 CLICKATELL_API_ID = 'XXXXXX'
